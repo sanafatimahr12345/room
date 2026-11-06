@@ -35,7 +35,7 @@ export const Hero: React.FC<HeroProps> = ({ onSearch, onBookClick }) => {
       {/* Background Hero Image with Measured Luxury Dark & Emerald Scrim */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_luxury_bedroom_1793957237779.jpg"
+          src="/images/hero.jpg"
           alt="Luxury hotel bedroom suite at Great Treasure Global Hotel"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center scale-105 transform motion-safe:animate-fade-in"

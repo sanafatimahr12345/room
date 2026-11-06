@@ -18,7 +18,7 @@ export const PromotionCards: React.FC<PromotionCardsProps> = ({
           {/* Image Container with Scrim */}
           <div className="relative h-64 sm:h-72 w-full overflow-hidden">
             <img
-              src="/src/assets/images/room_standard_deluxe_1793957237002.jpg"
+              src="/images/room_standard.jpg"
               alt="Luxury hotel bedroom suite at Great Treasure"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
@@ -90,7 +90,7 @@ export const PromotionCards: React.FC<PromotionCardsProps> = ({
           {/* Image Container with Scrim */}
           <div className="relative h-64 sm:h-72 w-full overflow-hidden">
             <img
-              src="/src/assets/images/food_jollof_chicken_1793957239261.jpg"
+              src="/images/food_jollof.jpg"
               alt="Gourmet Jollof Rice and chicken at Great Treasure Restaurant"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"

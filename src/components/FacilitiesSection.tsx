@@ -73,7 +73,7 @@ export const FacilitiesSection: React.FC = () => {
         <div className="md:col-span-2 lg:col-span-2 glass-card rounded-2xl overflow-hidden border border-[#D4AF37]/35 relative flex flex-col lg:flex-row group">
           <div className="lg:w-1/2 relative h-56 lg:h-auto overflow-hidden">
             <img
-              src="/src/assets/images/hotel_event_facility_1793957302955.jpg"
+              src="/images/event_hall.jpg"
               alt="Grand Event Hall at Great Treasure Hotel"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
